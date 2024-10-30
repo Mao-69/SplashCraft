@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=lasereyes
+Description=Cat with lasereyes.
+Comment=created By soCx
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/lasereyes
+ScriptFile=/usr/share/plymouth/themes/lasereyes/lasereyes.script
