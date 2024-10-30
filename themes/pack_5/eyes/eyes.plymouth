@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=eyes
+Description=boy with lasereyes
+Comment=created By soCx
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/eyes
+ScriptFile=/usr/share/plymouth/themes/eyes/eyes.script
