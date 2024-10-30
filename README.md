@@ -22,3 +22,4 @@ sudo ./SplashCraft.sh
 ![03](https://github.com/user-attachments/assets/b0efd487-dab9-40e9-9985-ecf5f01be4ba)
 ![02](https://github.com/user-attachments/assets/2e374ccd-82c7-449a-9c8a-49e41f56dee4)
 
+![ezgif-5-c13a02de7c](https://github.com/user-attachments/assets/6a849969-3dd7-4d62-b8ca-0bd92c341ac1)
