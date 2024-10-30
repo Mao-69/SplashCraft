@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=jumpy
+Description=A jumpy cat.
+Comment=created By soCx
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/jumpy
+ScriptFile=/usr/share/plymouth/themes/jumpy/jumpy.script
