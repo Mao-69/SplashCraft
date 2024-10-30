@@ -14,6 +14,7 @@ sudo apt-get install plymouth-x11
 ```
 # Then chmod +x the bash script and run:
 ```
+git clone https://github.com/Mao-69/SplashCraft.git
 sudo chmod +x SplashCraft.sh
 sudo ./SplashCraft.sh
 ```
